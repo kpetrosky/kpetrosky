@@ -1,4 +1,6 @@
 </picture> ## About me
+
+<!-- Figure this shit out -->
 Hi, I'm Krystal. I am trying to figure this whole thing out.
 | Rank | Hobbies       |
 |-----:|---------------|
