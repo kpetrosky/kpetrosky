@@ -20,7 +20,7 @@ My top THINGS-TO-RANK
   
 | Rank | Things I like |
 |-----:|---------------|
-|     1|learning new things|
+|     1|Learning new things|
 |     2|Challenges|
 |     3|Good Music|
 
