@@ -9,22 +9,20 @@
 </picture> ## About me
 
 <!-- Figure this out -->
-Hi, I'm Krystal. I am trying to figure this whole thing out.
+Hi, I'm Krystal. 
 | Rank | Hobbies       |
 |-----:|---------------|
 |     1|Hanging with the hubby and dogs|
 |     2|Writing my own book|
 |     3|Reading   |
-<details>
-<summary>My top THINGS-TO-RANK</summary>
+
+My top THINGS-TO-RANK
   
-| Rank | things I like |
+| Rank | Things I like |
 |-----:|---------------|
 |     1|learning new things|
 |     2|Challenges|
 |     3|Good Music|
-  
-</details>
 
 ---
 > Can't died because try killed him
