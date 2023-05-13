@@ -8,21 +8,21 @@
 
 </picture> ## About me
 
-<!-- Figure this shit out -->
+<!-- Figure this out -->
 Hi, I'm Krystal. I am trying to figure this whole thing out.
 | Rank | Hobbies       |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|Hanging with the hubby and dogs|
+|     2|Writing my own book|
+|     3|Reading   |
 <details>
 <summary>My top THINGS-TO-RANK</summary>
   
 | Rank | things I like |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|learning new things|
+|     2|Challenges|
+|     3|Good Music|
   
 </details>
 
